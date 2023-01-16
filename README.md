@@ -1,5 +1,5 @@
 # my_projects
-My eklectronics projects, using STM32 NUCLEO boards (usually F411RE or F401RE)
+My electronics projects, using STM32 NUCLEO boards (usually F411RE or F401RE)
 
 
 
