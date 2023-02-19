@@ -1,8 +1,8 @@
 	STM32 Line Follower ver. 1.0 
 
 Author: Lorenzo Arrigoni
+
 Date: Jan. 2023
-email: 
 
 Project Web Page: https://loarri.wordpress.com/stm32-line-follower/
 
