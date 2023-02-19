@@ -14,7 +14,7 @@ To install it, download the file on your Android mobile device and click to proc
 Please note: to rightly work it's necessary to grant all permissions in the app settings.
 
 
-![AndroidApp](https://user-images.githubusercontent.com/13197186/219951561-3a07e744-681f-4805-b275-dde7391731fe.png)
+![AndroidApp](https://user-images.githubusercontent.com/13197186/219951672-c19acc49-8aca-4a6c-8836-9bd9b4c95f11.png)
 
 
 ![Screenshot_20230219-142117_Permission controller](https://user-images.githubusercontent.com/13197186/219951176-8ddabe42-7158-451f-8f36-0cc34ecc4f04.jpg)
