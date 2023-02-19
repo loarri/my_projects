@@ -12,3 +12,5 @@ robot. In the main menu it's possible to choose the demo to run (among three dif
 and rightly customize some parameters of the algorithms.
 To install it, download the file on your Android mobile device and click to proceed with the installation.
 Please note: to rightly work it's necessary to grant all permissions in the app settings.
+
+![Screenshot_20230219-142117_Permission controller](https://user-images.githubusercontent.com/13197186/219951176-8ddabe42-7158-451f-8f36-0cc34ecc4f04.jpg)
